@@ -38,7 +38,7 @@
 | **Programación por bloques** | Paradigma visual en que las instrucciones se representan como piezas encajables (bloques). Herramientas como Scratch permiten aprender lógica sin preocuparse por la sintaxis textual. Es ideal para iniciarse en el pensamiento computacional.  |
 ### 1.2 Herramientas utilizadas
 *   **PseInt:** Entorno gratuito y multiplataforma para escribir y ejecutar pseudocódigo en español. Genera diagramas de flujo automáticamente a partir del pseudocódigo escrito.
-Descarga: https://pseint.sourceforge.net/
+
 *   **Lenguaje C:** Lenguaje de programación de propósito general, compilado, creado por Dennis Ritchie (1972). Se programa con editores como Dev-C++, Code::Blocks o VS Code + GCC. Es la base de muchos sistemas operativos y lenguajes modernos.
 
 ---
