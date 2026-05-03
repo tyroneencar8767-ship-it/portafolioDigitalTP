@@ -8,20 +8,17 @@
 </p>
 
 
-<h3 align="center">FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES</h3>
-<p align="center">
-  <strong>Carrera:</strong> Ingeniería en Computación <br>
-  <strong>Asignatura:</strong> Teoría de la Programación
-</p>
+
+
 
 
 <div align="center">
-  <p><em>"Algoritmos y Estructuras Secuenciales"</em></p>
+  <p><em>"TEMA: Algoritmos y Estructuras Secuenciales"</em></p>
 </div>
 
 # PORTAFOLIO DIGITAL: EVALUACIÓN SUMATIVA (40%)
 
-| 🏛️ Información Institucional | 👤 Datos del Estudiante y Docente |
+| Información Institucional |  Datos del Estudiante y Docente |
 | :--- | :--- |
 | **Institución:** Universidad Nacional de Loja | **Estudiante:** Tyrone Efren Encarnación Erique |
 | **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables | **Docente:** Ing. Lissette Geoconda López Faicán|
