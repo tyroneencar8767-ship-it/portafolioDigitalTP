@@ -183,7 +183,7 @@ El desarrollo de este proyecto ha sido fundamental para comprender que la progra
 
 ---
 
-## 5. Bibliografía (Formato IEEE)
+## 5. Bibliografía
 *   [1] B. W. Kernighan y D. M. Ritchie, *El lenguaje de programación C*, México: Prentice Hall, 2021. Disponible: https://lc.fie.umich.mx/~moises/apuntes/Programaci%C3%B3n%20de%20Computadoras/libro_tecto.pdf
 *   [2] P. Deitel y H. Deitel, *C: Cómo programar*, 8.ª ed. México: Pearson Educación, 2022. Disponible: https://elhacker.info/manuales/Lenguajes%20de%20Programacion/C++/Como%20programar%20en%20C%20-%20C++%20(Deitel%20-%20Deitel).pdf
 *   [3] PseInt Project, "PseInt - Herramienta educativa para pseudocódigo," 2023. Disponible: https://pseint.sourceforge.net/.
