@@ -2,7 +2,7 @@
 
 <h1 align="center">UNIVERSIDAD NACIONAL DE LOJA</h1>
 <p align="center">
-<img width="840" height="630" alt="image" src="https://github.com/user-attachments/assets/4435b046-022b-4535-8a37-e107e4a7012c" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4435b046-022b-4535-8a37-e107e4a7012c" />
 
 
 </p>
