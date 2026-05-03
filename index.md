@@ -1,22 +1,39 @@
-# 📔 PORTAFOLIO DIGITAL: TEORÍA DE LA PROGRAMACIÓN
 
-## 🏛️ CARÁTULA
-*   **Institución:** Universidad Nacional de Loja
-*   **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables
-*   **Carrera:** Ingeniería en Computación
-*   **Asignatura:** Teoría de la Programación
-*   **Unidad:** Unidad 1 - Algoritmos y Estructuras Secuenciales
-*   **Ciclo / Paralelo:** Ciclo 1A
-*   **Período Académico:** Marzo-agosto 2026 modalidad presencial.
-*   **Docente:** Ing. Lissette Geoconda López Faicán
-*   **Estudiante:** Tyrone Efren Encarnación Erique
-*   **Actividad:** Portafolio Digital Evaluación Sumativa (40%)
-*   **Lugar y Fecha:** Loja-Ecuador, 2026
 
-# Teoría de la Programación
+<h1 align="center">UNIVERSIDAD NACIONAL DE LOJA</h1>
+<p align="center">
+ <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/2525c671-7551-4192-b08a-bcdfd978aa66" />
+
+</p>
+
+
+<h3 align="center">FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES</h3>
+<p align="center">
+  <strong>Carrera:</strong> Ingeniería en Computación <br>
+  <strong>Asignatura:</strong> Teoría de la Programación
+</p>
+
+
+<div align="center">
+  <p><em>"Algoritmos y Estructuras Secuenciales"</em></p>
+</div>
+
+# PORTAFOLIO DIGITAL: EVALUACIÓN SUMATIVA (40%)
+
+| 🏛️ Información Institucional | 👤 Datos del Estudiante y Docente |
+| :--- | :--- |
+| **Institución:** Universidad Nacional de Loja | **Estudiante:** Tyrone Efren Encarnación Erique |
+| **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables | **Docente:** Ing. Lissette Geoconda López Faicán|
+| **Carrera:** Ingeniería en Computación | **Ciclo / Paralelo:** Ciclo 1A |
+| **Asignatura:** Teoría de la Programación | **Período Académico:** Marzo-agosto 2026 |
+| **Unidad:** Unidad 1 - Algoritmos y Estructuras Secuenciales | **Lugar y Fecha:** Loja-Ecuador, 2026 |
+
+---
+
+# <div align="center"> Teoría de la Programación
 ## Unidad 1
 
-## 📘 Unidad 1 - Contenidos Teóricos
+## 1. Contenidos Teóricos
 
 ### 1.1 Conceptos Fundamentales
 | Concepto | Definición |
@@ -34,7 +51,7 @@ Descarga: https://pseint.sourceforge.net/
 
 ---
 
-## 💻 UNIDAD 1 - Ejercicio con Estructura Secuencial
+## 2. Ejercicio con Estructura Secuencial
 
 ### 2.1 Planteamiento del Problema
 Calcular el total a pagar en una tienda de ropa. Se aplica un **descuento del 10%** si el subtotal supera los $50, y se cobra el **IVA del 15%**.
@@ -110,8 +127,83 @@ int main() {
     return 0;
 }
 ```
-#### 2.5.1 Ejemplo de ejecución en lengua C (Usando VS CODE)
+#### 2.5.1 Ejemplo de ejecución en lenguaje C (Usando VS CODE)
 <img width="1328" height="1034" alt="image" src="https://github.com/user-attachments/assets/5f3a1201-fafa-4bb2-b922-05b55e4bc867" />
+
+## 2.6 Validación: Pruebas de Escritorio
+
+Se han realizado simulaciones manuales para verificar la exactitud de los cálculos antes de la codificación.
+#### 2.6.1 Caso 1
+**Datos:** Cantidad = 96, Precio Unitario = $5.00
+**Subtotal:** $480.00 (Supera los $50, si aplica descuento).
+
+| Paso | Acción | Cantidad | Precio U. | Subtotal | Descuento | Base | IVA (15%) | TOTAL |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | Leer datos | 96 | 5.00 | - | - | - | - | - |
+| 2 | Calcular Subtotal | 96 | 5.00 | 480.00 | - | - | - | - |
+| 3 | ¿Subtotal > 50? | 96 | 5.00 | **Sí** | - | - | - | - |
+| 4 | Calcular Desc (10%)| 96 | 5.00 | 480.00 | 48.00 | - | - | - |
+| 5 | Calcular Base | 96 | 5.00 | 480.00 | 48.00 | 432.00 | - | - |
+| 6 | Calcular IVA | 96 | 5.00 | 480.00 | 48.00 | 432.00 | 64.80 | - |
+| 7 | **Resultado Final** | 96 | 5.00 | 480.00 | 48.00 | 432.00 | 64.80 | **496.80** |
+
+#### 2.6.2 Caso 2
+**Datos:** Cantidad = 2, precio Unitario = $20.00 
+**Subtotal:** $40.00 (No supera los $50, no aplica descuento)
+
+| Paso | Acción | Cantidad | Precio U. | Subtotal | Descuento | Base | IVA (15%) | TOTAL |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | Leer datos | 2 | 20.00 | - | - | - | - | - |
+| 2 | Calcular Subtotal | 2 | 20.00 | 40.00 | - | - | - | - |
+| 3 | ¿Subtotal > 50? | 2 | 20.00 | **No** | - | - | - | - |
+| 4 | Asignar Descuento | 2 | 20.00 | 40.00 | 0.00 | - | - | - |
+| 5 | Calcular Base | 2 | 20.00 | 40.00 | 0.00 | 40.00 | - | - |
+| 6 | Calcular IVA | 2 | 20.00 | 40.00 | 0.00 | 40.00 | 6.00 | - |
+| 7 | **Resultado Final** | 2 | 20.00 | 40.00 | 0.00 | 40.00 | 6.00 | **46.00** |
+
+### 2.6.3 Caso 3
+**Datos:** Cantidad = 3, Precio Unitario = $25.00 
+**Subtotal** = $75.00 (Supera los $50, si aplica descuento).
+
+| Paso | Acción | Cantidad | Precio U. | Subtotal | Descuento | Base | IVA (15%) | TOTAL |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | Leer datos | 3 | 25.00 | - | - | - | - | - |
+| 2 | Calcular Subtotal | 3 | 25.00 | 75.00 | - | - | - | - |
+| 3 | ¿Subtotal > 50? | **SÍ** | 25.00 | 75.00 | - | - | - | - |
+| 4 | Aplicar Desc (10%) | 3 | 25.00 | 75.00 | 7.50 | - | - | - |
+| 5 | Calcular Base | 3 | 25.00 | 75.00 | 7.50 | 67.50 | - | - |
+| 6 | Calcular IVA | 3 | 25.00 | 75.00 | 7.50 | 67.50 | 10.13 | - |
+| 7 | **Resultado Final** | 3 | 25.00 | 75.00 | 7.50 | 67.50 | 10.13 | **77.63** |
+
+
+
+---
+
+## 3. Dificultades y Reflexión Crítica
+
+### 3.1 Principales dificultades encontradas
+*   **Sintaxis de C:** Adaptarse al uso de tipos de datos (`int`, `float`), puntos y coma (`;`) y formatos de salida (`printf`)[cite: 1].
+*   **Lógica de Selección:** Traducir el `Si...Entonces` de PseInt al formato `if...else` de C.
+*   **Orden de Operaciones:** Comprender que el IVA se aplica sobre la base con descuento y no sobre el subtotal inicial[cite: 1].
+
+### 3.2 Reflexión crítica[cite: 1]
+Desarrollar este proyecto me permitió entender que la programación no es solo escribir código, sino un proceso de pensamiento lógico[cite: 1]. Diseñar algoritmos y diagramas antes de codificar reduce significativamente los errores en C[cite: 1]. La prueba de escritorio fue fundamental para validar mi razonamiento antes de la ejecución[cite: 1].
+
+---
+
+## 4. Bibliografía (Formato IEEE)
+*   [1] S. Alvarado y M. Torres, *Fundamentos de Algoritmos y Programación en C*, 2.ª ed. Quito: Editorial Universitaria, 2022[cite: 1].
+*   [2] B. W. Kernighan y D. M. Ritchie, *El lenguaje de programación C*, México: Prentice Hall, 2021[cite: 1].
+*   [3] P. Deitel y H. Deitel, *C: Cómo programar*, 8.ª ed. México: Pearson Educación, 2022[cite: 1].
+*   [4] PseInt Project, "PseInt - Herramienta educativa para pseudocódigo," 2023[cite: 1].
+
+---
+
+## 5. Declaración de Uso de IA Generativa
+Para la elaboración de este portafolio se utilizó **IA Generativa (Gemini/Claude)** como tutor de apoyo para reforzar conceptos de la Unidad 1, depurar el código en C y organizar el formato Markdown[cite: 1]. Todo el contenido ha sido validado, comprendido y editado por el estudiante[cite: 1].
+
+---
+**Tyrone Encarnación** | Ciclo 1A - UNL 2025[cite: 1]
 
 
 ## Unidad 2
