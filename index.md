@@ -4,13 +4,7 @@
 <p align="center">
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4435b046-022b-4535-8a37-e107e4a7012c" />
 
-
 </p>
-
-
-
-
-
 
 <div align="center">
   <p><em>"TEMA DE LA UNIDAD: Algoritmos y Estructuras Secuenciales"</em></p>
@@ -178,9 +172,11 @@ Se han realizado simulaciones manuales para verificar la exactitud de los cálcu
 ---
 
 ### 3. Principales dificultades encontradas
-*   **Sintaxis de C:** Adaptarse al uso de tipos de datos (`int`, `float`), puntos y coma (`;`) y formatos de salida (`printf`).
-*   **Lógica de Selección:** Traducir el `Si...Entonces` de PseInt al formato `if...else` de C.
-*   **Orden de Operaciones:** Comprender que el IVA se aplica sobre la base con descuento y no sobre el subtotal inicial.
+Durante el desarrollo de las actividades de la Unidad 1, las principales complicaciones técnicas se centraron en los siguientes puntos:  
+
+**Adaptación a la Sintaxis de C:** Presenté dificultades específicas al gestionar los tipos de datos (int, float, char) y el uso correcto de las máscaras de formato (%i, %d, %f, %c) dentro de las funciones de entrada y salida de datos.  
+**Depuración de Código Basura:** En varias ocasiones durante la unidad, el programa presentaba líneas de código innecesarias (código basura) que afectaban la limpieza del proyecto, lo que requirió un proceso de depuración más exhaustivo para cumplir con los estándares de programación.  
+**Gestión de Salidas:** El control de los formatos de salida (como el uso de %.2f para limitar los decimales) fue un reto inicial para asegurar que la información presentada al usuario fuera precisa y legible.
 
 ### 4. Reflexión crítica
 El desarrollo de este proyecto ha sido fundamental para comprender que la programación no es solo la escritura de código; representa un proceso riguroso de pensamiento lógico y estructuración mental. He comprendido que el diseño previo de algoritmos y diagramas de flujo es una etapa muy recomendable que reduce significativamente los errores de sintaxis y lógica en lenguaje C. Asimismo, la ejecución de pruebas de escritorio manuales resultó indispensable para validar mi razonamiento antes de la implementación técnica. Más allá de la lógica de programación, esta actividad me permitió adquirir nuevas habilidades en el uso de GitHub como plataforma de control de versiones y el dominio de la sintaxis Markdown. El aprendizaje de diversos componentes y etiquetas (como tablas, fórmulas y jerarquía de títulos) ha sido clave para organizar el contenido de manera técnica, profesional y estructurada, y mediante esto fortaleces habilidades esenciales para mi formación como futuro ingeniero en computación.
