@@ -180,34 +180,24 @@ Se han realizado simulaciones manuales para verificar la exactitud de los cálcu
 
 ---
 
-## 3. Dificultades y Reflexión Crítica
-
-### 3.1 Principales dificultades encontradas
-*   **Sintaxis de C:** Adaptarse al uso de tipos de datos (`int`, `float`), puntos y coma (`;`) y formatos de salida (`printf`)[cite: 1].
+### 3. Principales dificultades encontradas
+*   **Sintaxis de C:** Adaptarse al uso de tipos de datos (`int`, `float`), puntos y coma (`;`) y formatos de salida (`printf`).
 *   **Lógica de Selección:** Traducir el `Si...Entonces` de PseInt al formato `if...else` de C.
-*   **Orden de Operaciones:** Comprender que el IVA se aplica sobre la base con descuento y no sobre el subtotal inicial[cite: 1].
+*   **Orden de Operaciones:** Comprender que el IVA se aplica sobre la base con descuento y no sobre el subtotal inicial.
 
-### 3.2 Reflexión crítica[cite: 1]
-Desarrollar este proyecto me permitió entender que la programación no es solo escribir código, sino un proceso de pensamiento lógico[cite: 1]. Diseñar algoritmos y diagramas antes de codificar reduce significativamente los errores en C[cite: 1]. La prueba de escritorio fue fundamental para validar mi razonamiento antes de la ejecución[cite: 1].
-
----
-
-## 4. Bibliografía (Formato IEEE)
-*   [1] S. Alvarado y M. Torres, *Fundamentos de Algoritmos y Programación en C*, 2.ª ed. Quito: Editorial Universitaria, 2022[cite: 1].
-*   [2] B. W. Kernighan y D. M. Ritchie, *El lenguaje de programación C*, México: Prentice Hall, 2021[cite: 1].
-*   [3] P. Deitel y H. Deitel, *C: Cómo programar*, 8.ª ed. México: Pearson Educación, 2022[cite: 1].
-*   [4] PseInt Project, "PseInt - Herramienta educativa para pseudocódigo," 2023[cite: 1].
+### 4. Reflexión crítica
+El desarrollo de este proyecto ha sido fundamental para comprender que la programación no es solo la escritura de código; representa un proceso riguroso de pensamiento lógico y estructuración mental. He comprendido que el diseño previo de algoritmos y diagramas de flujo es una etapa muy recomendable que reduce significativamente los errores de sintaxis y lógica en lenguaje C. Asimismo, la ejecución de pruebas de escritorio manuales resultó indispensable para validar mi razonamiento antes de la implementación técnica. Más allá de la lógica de programación, esta actividad me permitió adquirir nuevas habilidades en el uso de GitHub como plataforma de control de versiones y el dominio de la sintaxis Markdown. El aprendizaje de diversos componentes y etiquetas (como tablas, fórmulas y jerarquía de títulos) ha sido clave para organizar el contenido de manera técnica, profesional y estructurada, y mediante esto fortaleces habilidades esenciales para mi formación como futuro ingeniero en computación.
 
 ---
 
-## 5. Declaración de Uso de IA Generativa
-Para la elaboración de este portafolio se utilizó **IA Generativa (Gemini/Claude)** como tutor de apoyo para reforzar conceptos de la Unidad 1, depurar el código en C y organizar el formato Markdown[cite: 1]. Todo el contenido ha sido validado, comprendido y editado por el estudiante[cite: 1].
+## 5. Bibliografía (Formato IEEE)
+*   [1] B. W. Kernighan y D. M. Ritchie, *El lenguaje de programación C*, México: Prentice Hall, 2021. Disponible: https://lc.fie.umich.mx/~moises/apuntes/Programaci%C3%B3n%20de%20Computadoras/libro_tecto.pdf
+*   [2] P. Deitel y H. Deitel, *C: Cómo programar*, 8.ª ed. México: Pearson Educación, 2022. Disponible: https://elhacker.info/manuales/Lenguajes%20de%20Programacion/C++/Como%20programar%20en%20C%20-%20C++%20(Deitel%20-%20Deitel).pdf
+*   [3] PseInt Project, "PseInt - Herramienta educativa para pseudocódigo," 2023. Disponible: https://pseint.sourceforge.net/.
 
 ---
-**Tyrone Encarnación** | Ciclo 1A - UNL 2025[cite: 1]
 
+## 6. Declaración de Uso de IA Generativa
+En el desarrollo de este portafolio digital se emplearon herramientas de **Inteligencia Artificial Generativa (Gemini/Claude)** como tutores para reforzar conceptos teóricos de la Unidad 1, optimizar  y estructurar técnicamente el formato Markdown para su correcta visualización en GitHub. El uso de estas tecnologías se limitó estrictamente al apoyo en la maquetación y depuración técnica, garantizando que el planteamiento del problema, el análisis lógico, el diseño y creación del algoritmo y la validación manual mediante pruebas de escritorio fueran realizados, comprendidos y validados íntegramente por el estudiante, asegurando así la autenticidad del proceso de aprendizaje y la autoría de los resultados presentados.
 
-## Unidad 2
-
-## Unidad 3
 
