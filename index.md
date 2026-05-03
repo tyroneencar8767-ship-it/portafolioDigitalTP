@@ -75,7 +75,7 @@ Algoritmo CalcularCompra
 
     Escribir "SUBTOTAL: $", subtotal
     Escribir "DESCUENTO: $", descuento
-	  Escribir "IVA : $", iva
+	Escribir "IVA : $", iva
     Escribir "TOTAL: $", total
 FinAlgoritmo
 ```
