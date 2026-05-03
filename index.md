@@ -72,7 +72,8 @@ Algoritmo CalcularCompra
 FinAlgoritmo
 ```
 ### 2.3.1 Ejemplo de ejecución en PseInt
-<img width="1209" height="899" alt="image" src="https://github.com/user-attachments/assets/e3a2cbac-4f62-4158-bed3-7986d8a653c7" />
+<img width="1211" height="962" alt="image" src="https://github.com/user-attachments/assets/b3032c25-45d1-4844-b77a-108b2954e728" />
+
 
 
 
