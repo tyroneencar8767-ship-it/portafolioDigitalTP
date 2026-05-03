@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <p><em>"TEMA DE LA UNIDAD: Algoritmos y Estructuras Secuenciales"</em></p>
+  <p><em>"TEMA DE LA UNIDAD: Fundamentos de Algoritmos y programas"</em></p>
 </div>
 
 # PORTAFOLIO DIGITAL: EVALUACIÓN SUMATIVA (40%)
