@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <p><em>"TEMA: Algoritmos y Estructuras Secuenciales"</em></p>
+  <p><em>"TEMA DE LA UNIDAD: Algoritmos y Estructuras Secuenciales"</em></p>
 </div>
 
 # PORTAFOLIO DIGITAL: EVALUACIÓN SUMATIVA (40%)
@@ -24,7 +24,7 @@
 | **Facultad:** Energía, las Industrias y los Recursos Naturales No Renovables | **Docente:** Ing. Lissette Geoconda López Faicán|
 | **Carrera:** Ingeniería en Computación | **Ciclo / Paralelo:** Ciclo 1A |
 | **Asignatura:** Teoría de la Programación | **Período Académico:** Marzo-agosto 2026 |
-| **Unidad:** Unidad 1 - Algoritmos y Estructuras Secuenciales | **Lugar y Fecha:** Loja-Ecuador, 2026 |
+| **Unidad:** Unidad 1  | **Lugar y Fecha:** Loja-Ecuador, 2026 |
 
 ---
 
