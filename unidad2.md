@@ -297,6 +297,9 @@ Números pares ingresados  : 5
 Números impares ingresados: 5
 El número mayor ingresado : 20
 ```
+### 3.7 Ejemplo de ejecución en la terminal 
+<img width="1125" height="404" alt="image" src="https://github.com/user-attachments/assets/01e431f6-efb0-4267-9623-1b68ca4c0274" />
+
 
 ✅ La prueba de escritorio confirma que el programa produce resultados correctos.
 
