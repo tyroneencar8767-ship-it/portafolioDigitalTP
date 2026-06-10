@@ -23,23 +23,9 @@ Las estructuras condicionales permiten que un programa tome decisiones y ejecute
 Ejecuta un bloque de instrucciones **solo si** la condición es verdadera.
 
 **Diagrama de flujo:**
-```
-        ┌─────────┐
-        │  Inicio │
-        └────┬────┘
-             │
-        ┌────▼────────┐
-        │  Condición  │──── NO ───┐
-        └────┬────────┘           │
-            SÍ                    │
-        ┌────▼────────┐           │
-        │  Acción     │           │
-        └────┬────────┘           │
-             │◄────────────────────┘
-        ┌────▼────┐
-        │   Fin   │
-        └─────────┘
-```
+
+<img width="354" height="243" alt="image" src="https://github.com/user-attachments/assets/ce991c71-9b85-4b34-839e-ec861969db0f" />
+
 
 **Pseudocódigo:**
 ```
@@ -57,24 +43,8 @@ FIN
 Ejecuta un bloque si la condición es verdadera, y **otro bloque diferente** si es falsa.
 
 **Diagrama de flujo:**
-```
-        ┌─────────┐
-        │  Inicio │
-        └────┬────┘
-             │
-        ┌────▼────────┐
-        │  Condición  │
-        └──┬──────┬───┘
-          SÍ      NO
-     ┌────▼───┐ ┌─▼──────┐
-     │Acción A│ │Acción B│
-     └────┬───┘ └──┬─────┘
-          │        │
-          └───┬────┘
-         ┌────▼────┐
-         │   Fin   │
-         └─────────┘
-```
+
+<img width="372" height="232" alt="image" src="https://github.com/user-attachments/assets/c284338a-dbbc-4caa-9fc4-0ba29b4921f1" />
 
 **Pseudocódigo:**
 ```
@@ -94,19 +64,9 @@ FIN
 Evalúa varias condiciones en cadena y ejecuta el bloque correspondiente al primer caso verdadero.
 
 **Diagrama de flujo:**
-```
-        ┌──────────────┐
-        │  Condición 1 │──── NO ──► Condición 2 ──── NO ──► Acción C (default)
-        └──────┬───────┘            └──────┬───────┘
-              SÍ                          SÍ
-         ┌────▼──────┐              ┌─────▼──────┐
-         │  Acción A │              │  Acción B  │
-         └────┬──────┘              └─────┬──────┘
-              └──────────────┬────────────┘
-                         ┌───▼───┐
-                         │  Fin  │
-                         └───────┘
-```
+
+<img width="744" height="329" alt="image" src="https://github.com/user-attachments/assets/87354fd0-778e-47e8-9029-d8e282f35550" />
+
 
 **Pseudocódigo:**
 ```
@@ -133,20 +93,12 @@ Las estructuras repetitivas (bucles o ciclos) permiten ejecutar un conjunto de i
 Evalúa la condición **antes** de ejecutar el cuerpo. Si la condición es falsa desde el inicio, el bloque nunca se ejecuta.
 
 **Diagrama de flujo:**
-```
-        ┌─────────┐
-        │  Inicio │
-        └────┬────┘
-             │
-        ┌────▼────────┐
-     ┌──│  Condición  │── NO ──► Fin
-     │  └─────────────┘
-     │        SÍ
-     │  ┌─────▼──────┐
-     │  │   Cuerpo   │
-     │  └─────┬──────┘
-     └─────────┘
-```
+
+
+<img width="402" height="387" alt="image" src="https://github.com/user-attachments/assets/deaa89c0-c0c0-4f37-9864-1063f57cea51" />
+
+
+
 
 **Pseudocódigo:**
 ```
@@ -165,23 +117,9 @@ FIN
 Ejecuta el cuerpo **al menos una vez** y luego evalúa la condición.
 
 **Diagrama de flujo:**
-```
-        ┌─────────┐
-        │  Inicio │
-        └────┬────┘
-             │
-        ┌────▼──────┐
-        │   Cuerpo  │◄──────┐
-        └────┬──────┘        │
-             │               │
-        ┌────▼────────┐      │
-        │  Condición  │─ SÍ ─┘
-        └─────┬───────┘
-              NO
-         ┌────▼────┐
-         │   Fin   │
-         └─────────┘
-```
+
+<img width="343" height="325" alt="image" src="https://github.com/user-attachments/assets/2a3afa94-b959-4c2c-8eb3-659798c50bfa" />
+
 
 **Pseudocódigo:**
 ```
@@ -199,23 +137,9 @@ FIN
 Se usa cuando se conoce de antemano el número de iteraciones.
 
 **Diagrama de flujo:**
-```
-        ┌─────────────────────────┐
-        │  Inicio: i = valor_ini  │
-        └────────────┬────────────┘
-                     │
-        ┌────────────▼────────────┐
-     ┌──│    i <= valor_final     │── NO ──► Fin
-     │  └─────────────────────────┘
-     │              SÍ
-     │  ┌───────────▼────────┐
-     │  │      Cuerpo        │
-     │  └───────────┬────────┘
-     │              │
-     │  ┌───────────▼────────┐
-     └──│    i = i + paso    │
-        └────────────────────┘
-```
+
+<img width="336" height="247" alt="image" src="https://github.com/user-attachments/assets/b05d5e9e-92c5-4b46-b733-67ac8decb58a" />
+
 
 **Pseudocódigo:**
 ```
@@ -261,59 +185,8 @@ FIN
 
 ### 3.3 Diseño del algoritmo — Diagrama de flujo
 
-```
-              ┌──────────────────────┐
-              │        INICIO        │
-              └──────────┬───────────┘
-                         │
-              ┌──────────▼───────────┐
-              │ pares ← 0            │
-              │ impares ← 0          │
-              │ mayor ← -∞ (muy bajo)│
-              └──────────┬───────────┘
-                         │
-              ┌──────────▼───────────┐
-              │    i ← 1             │
-              └──────────┬───────────┘
-                         │
-              ┌──────────▼───────────┐
-         ┌────│     i <= 10 ?        │──── NO ──────────────────┐
-         │    └──────────────────────┘                          │
-        SÍ                                                       │
-         │                                                       │
-    ┌────▼──────────────────┐                                   │
-    │  Ingresar número      │                                   │
-    └────┬──────────────────┘                                   │
-         │                                                       │
-    ┌────▼──────────────────┐                                   │
-    │  número % 2 == 0 ?    │                                   │
-    └──┬──────────────┬─────┘                                   │
-      SÍ              NO                                         │
-    ┌──▼──────┐   ┌───▼───────┐                                 │
-    │pares++  │   │impares++  │                                 │
-    └──┬──────┘   └───┬───────┘                                 │
-       └──────┬────────┘                                         │
-    ┌─────────▼─────────────┐                                   │
-    │  número > mayor ?     │                                   │
-    └──┬──────────────┬─────┘                                   │
-      SÍ              NO                                         │
-    ┌──▼────────┐      │                                         │
-    │mayor←núm │      │                                         │
-    └──┬────────┘      │                                         │
-       └────────┬───────┘                                         │
-    ┌───────────▼───────┐                                        │
-    │    i ← i + 1      │                                        │
-    └───────────┬───────┘                                        │
-                └──────────────────────────────────────────────► │
-                                                                  │
-              ┌───────────────────────────────────────────────────▼──┐
-              │ Mostrar: pares, impares, mayor                        │
-              └───────────────────────────────────────────────────┬──┘
-                                                                   │
-                                                          ┌────────▼───────┐
-                                                          │      FIN       │
-                                                          └────────────────┘
-```
+<img width="716" height="1361" alt="diagrama_flujo_corregido drawio" src="https://github.com/user-attachments/assets/b787a20f-d641-4d31-92a2-0079bdca27d4" />
+
 
 ---
 
@@ -351,12 +224,6 @@ FIN
 ### 3.5 Codificación — Código fuente en C
 
 ```c
-/* ============================================================
-   Programa  : Clasificador de 10 números (par/impar y mayor)
-   Autor     : Tyrone Efren Encarnación Erique
-   Asignatura: Teoría de la Programación — Ciclo 1A
-   ============================================================ */
-
 #include <stdio.h>
 
 int main() {
@@ -369,14 +236,14 @@ int main() {
 
     mayor = numero;
 
-    /* Clasificar el primer número */
+    // Clasificar el primer número //
     if (numero % 2 == 0) {
         pares++;
     } else {
         impares++;
     }
 
-    /* Estructura repetitiva: leer los 9 números restantes */
+    // Estructura repetitiva: leer los 9 números restantes //
     for (i = 2; i <= 10; i++) {
         printf("Ingrese el numero %d: ", i);
         scanf("%d", &numero);
@@ -388,13 +255,13 @@ int main() {
             impares++;
         }
 
-        /* Condicional para encontrar el mayor */
+        // Condicional para encontrar el mayor //
         if (numero > mayor) {
             mayor = numero;
         }
     }
 
-    /* Mostrar resultados */
+    // Mostrar resultados //
     printf("\n====== RESULTADOS ======\n");
     printf("Numeros pares ingresados  : %d\n", pares);
     printf("Numeros impares ingresados: %d\n", impares);
