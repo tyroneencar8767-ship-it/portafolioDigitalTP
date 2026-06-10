@@ -3,7 +3,10 @@
 
 
 ---
+# <div align="center"> Teoría de la Programación
 
+## <div align="center">Estructuras algorítmicas de control
+## Unidad 2
 ## Índice
 
 1. [Estructuras Condicionales](#1-estructuras-condicionales)
