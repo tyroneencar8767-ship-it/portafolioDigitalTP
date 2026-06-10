@@ -4,12 +4,33 @@
 
 ## <div align="center">Estructuras algorítmicas de control
 ## Unidad 2
-## Índice
 
-1. [Estructuras Condicionales](#1-estructuras-condicionales)
-2. [Estructuras Repetitivas](#2-estructuras-repetitivas)
-3. [Ejercicio Integrador](#3-ejercicio-integrador)
-4. [Dificultades y Reflexión Crítica](#4-dificultades-y-reflexión-crítica)
+---
+
+## Índice de Contenidos
+
+| # | Sección | Enlace |
+| :---: | :--- | :---: |
+| 1 | Estructuras Condicionales | [📖 Ver](#1-estructuras-condicionales) |
+| 1.1 | Tipos de Estructuras Condicionales | [📌 Ver](#11-tipos-de-estructuras-condicionales) |
+| 1.1a | Condicional Simple (`if`) | [📌 Ver](#a-condicional-simple-if) |
+| 1.1b | Condicional Doble (`if – else`) | [📌 Ver](#b-condicional-doble-if--else) |
+| 1.1c | Condicional Múltiple (`switch`) | [📌 Ver](#c-condicional-múltiple-if--else-if--else--switch) |
+| 2 | Estructuras Repetitivas | [🔁 Ver](#2-estructuras-repetitivas) |
+| 2.1 | Tipos de Estructuras Repetitivas | [📌 Ver](#21-tipos-de-estructuras-repetitivas) |
+| 2.1a | Ciclo `MIENTRAS` (`while`) | [📌 Ver](#a-ciclo-mientras-while--repetición-con-condición-al-inicio) |
+| 2.1b | Ciclo `HACER – MIENTRAS` (`do – while`) | [📌 Ver](#b-ciclo-hacer--mientras-do--while--repetición-con-condición-al-final) |
+| 2.1c | Ciclo `PARA` (`for`) | [📌 Ver](#c-ciclo-para-for--repetición-con-contador) |
+| 3 | Ejercicio Integrador | [💻 Ver](#3-ejercicio-integrador) |
+| 3.1 | Planteamiento del Problema | [📋 Ver](#31-planteamiento-del-problema) |
+| 3.2 | Análisis del Problema | [🔍 Ver](#32-análisis-del-problema) |
+| 3.3 | Diseño del Algoritmo (Diagrama de Flujo) | [📊 Ver](#33-diseño-del-algoritmo--diagrama-de-flujo) |
+| 3.4 | Pseudocódigo | [📝 Ver](#34-pseudocódigo) |
+| 3.5 | Codificación (Código fuente en C) | [⚙️ Ver](#35-codificación--código-fuente-en-c) |
+| 3.6 | Validación: Prueba de Escritorio | [✅ Ver](#36-validación--prueba-de-escritorio) |
+| 4 | Dificultades y Reflexión Crítica | [💡 Ver](#4-dificultades-y-reflexión-crítica) |
+| 4.1 | Principales Dificultades Encontradas | [⚠️ Ver](#41-principales-dificultades-encontradas) |
+| 4.2 | Reflexión Crítica | [💡 Ver](#42-reflexión-crítica) |
 
 ---
 
@@ -25,7 +46,6 @@ Ejecuta un bloque de instrucciones **solo si** la condición es verdadera.
 **Diagrama de flujo:**
 
 <img width="354" height="243" alt="image" src="https://github.com/user-attachments/assets/ce991c71-9b85-4b34-839e-ec861969db0f" />
-
 
 **Pseudocódigo:**
 ```
@@ -67,7 +87,6 @@ Evalúa varias condiciones en cadena y ejecuta el bloque correspondiente al prim
 
 <img width="744" height="329" alt="image" src="https://github.com/user-attachments/assets/87354fd0-778e-47e8-9029-d8e282f35550" />
 
-
 **Pseudocódigo:**
 ```
 INICIO
@@ -94,11 +113,7 @@ Evalúa la condición **antes** de ejecutar el cuerpo. Si la condición es falsa
 
 **Diagrama de flujo:**
 
-
 <img width="402" height="387" alt="image" src="https://github.com/user-attachments/assets/deaa89c0-c0c0-4f37-9864-1063f57cea51" />
-
-
-
 
 **Pseudocódigo:**
 ```
@@ -120,7 +135,6 @@ Ejecuta el cuerpo **al menos una vez** y luego evalúa la condición.
 
 <img width="343" height="325" alt="image" src="https://github.com/user-attachments/assets/2a3afa94-b959-4c2c-8eb3-659798c50bfa" />
 
-
 **Pseudocódigo:**
 ```
 INICIO
@@ -139,7 +153,6 @@ Se usa cuando se conoce de antemano el número de iteraciones.
 **Diagrama de flujo:**
 
 <img width="336" height="247" alt="image" src="https://github.com/user-attachments/assets/b05d5e9e-92c5-4b46-b733-67ac8decb58a" />
-
 
 **Pseudocódigo:**
 ```
@@ -186,7 +199,6 @@ FIN
 ### 3.3 Diseño del algoritmo — Diagrama de flujo
 
 <img width="716" height="1361" alt="diagrama_flujo_corregido drawio" src="https://github.com/user-attachments/assets/b787a20f-d641-4d31-92a2-0079bdca27d4" />
-
 
 ---
 
@@ -297,9 +309,9 @@ Números pares ingresados  : 5
 Números impares ingresados: 5
 El número mayor ingresado : 20
 ```
-### 3.7 Ejemplo de ejecución en la terminal 
-<img width="1125" height="404" alt="image" src="https://github.com/user-attachments/assets/01e431f6-efb0-4267-9623-1b68ca4c0274" />
 
+### 3.7 Ejemplo de ejecución en la terminal
+<img width="1125" height="404" alt="image" src="https://github.com/user-attachments/assets/01e431f6-efb0-4267-9623-1b68ca4c0274" />
 
 ✅ La prueba de escritorio confirma que el programa produce resultados correctos.
 
@@ -326,4 +338,4 @@ En conclusión, dominar estas estructuras en un lenguaje como C forja una compre
 
 ---
 
-[🏠 Volver al inicio](README.md)
+[← Volver al Portafolio](index.md)
