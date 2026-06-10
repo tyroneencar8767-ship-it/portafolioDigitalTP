@@ -8,7 +8,7 @@
   <p><em>"TEMA DE LA UNIDAD: Fundamentos de Algoritmos y programas"</em></p>
 </div>
 
-# PORTAFOLIO DIGITAL: EVALUACIÓN SUMATIVA (40%)
+# PORTAFOLIO DIGITAL: EVALUACIÓN SUMATIVA
 
 | Información Institucional |  Datos del Estudiante y Docente |
 | :--- | :--- |
