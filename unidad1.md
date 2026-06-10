@@ -1,4 +1,5 @@
 [← Volver al Portafolio](index.md)
+---
 
 
 # <div align="center"> Teoría de la Programación
@@ -184,5 +185,6 @@ El desarrollo de este proyecto ha sido fundamental para comprender que la progra
 ---
 
 [↑ Ir al Índice de contenidos](#Índice-de-Contenidos-de-la-Unidad)
+---
 
 [← Volver al Portafolio](index.md)
