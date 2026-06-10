@@ -13,15 +13,7 @@
 | # | Sección | Enlace |
 | :---: | :--- | :---: |
 | 1 | Contenidos Teóricos | [Ver](#1-contenidos-teóricos) |
-| 1.1 | Conceptos Fundamentales | [Ver](#11-conceptos-fundamentales) |
-| 1.2 | Herramientas Utilizadas | [Ver](#12-herramientas-utilizadas) |
 | 2 | Ejercicio con Estructura Secuencial | [Ver](#2-ejercicio-con-estructura-secuencial) |
-| 2.1 | Planteamiento del Problema | [Ver](#21-planteamiento-del-problema) |
-| 2.2 | Análisis del Problema | [Ver](#22-análisis-del-problema) |
-| 2.3 | Diseño del Algoritmo (Pseudocódigo PseInt) | [Ver](#23-diseño-del-algoritmo-pseudocódigo-pseint) |
-| 2.4 | Diseño del Algoritmo (Diagrama de Flujo) | [Ver](#24-diseño-del-algoritmo-diagrama-de-flujo-pseint) |
-| 2.5 | Diseño del Algoritmo (Código en C) | [Ver](#25-diseño-del-algoritmo-código-en-lenguaje-c) |
-| 2.6 | Validación: Pruebas de Escritorio | [Ver](#26-validación-pruebas-de-escritorio) |
 | 3 | Principales Dificultades Encontradas | [Ver](#3-principales-dificultades-encontradas) |
 | 4 | Reflexión Crítica | [Ver](#4-reflexión-crítica) |
 
