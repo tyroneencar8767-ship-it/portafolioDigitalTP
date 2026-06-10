@@ -4,10 +4,10 @@
 
 # <div align="center"> Teoría de la Programación
 
-## <div align="center">Fundamentos de Algoritmos y programas
-## Unidad 1
 
----
+# Unidad 1
+## <div align="center">Fundamentos de Algoritmos y programas
+
 
 ## Índice de Contenidos de la Unidad
 
