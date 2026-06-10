@@ -26,9 +26,9 @@
 
 | Unidad | Tema | Enlace |
 | :---: | :--- | :---: |
-| Unidad 1 | Fundamentos de Algoritmos y Programas | [📂 Ver Unidad 1](unidad1.md) |
-| Unidad 2 | Estructuras algorítmicas de control | [📂 Ver Unidad 2](unidad2.md) |
-| Unidad 3 | *(Próximamente)* | [📂 Ver Unidad 3](unidad3.md) |
+| Unidad 1 | Fundamentos de Algoritmos y Programas | [Ver Unidad 1](unidad1.md) |
+| Unidad 2 | Estructuras algorítmicas de control | [Ver Unidad 2](unidad2.md) |
+| Unidad 3 | *(Próximamente)* | [Ver Unidad 3](unidad3.md) |
 
 ## Conclusiones generales
 > *Esta sección se encuentra actualmente en desarrollo y se completará al finalizar el ciclo académico.*
