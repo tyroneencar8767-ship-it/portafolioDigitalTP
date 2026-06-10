@@ -3,10 +3,10 @@
 
 # <div align="center"> Teoría de la Programación
 
-## <div align="center">Estructuras algorítmicas de control
-## Unidad 2
 
----
+# Unidad 2
+## <div align="center">Estructuras algorítmicas de control
+
 
 ## Índice de Contenidos de la Unidad
 
