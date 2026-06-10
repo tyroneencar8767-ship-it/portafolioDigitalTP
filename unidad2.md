@@ -12,25 +12,10 @@
 | # | Sección | Enlace |
 | :---: | :--- | :---: |
 | 1 | Estructuras Condicionales | [📖 Ver](#1-estructuras-condicionales) |
-| 1.1 | Tipos de Estructuras Condicionales | [📌 Ver](#11-tipos-de-estructuras-condicionales) |
-| 1.1a | Condicional Simple (`if`) | [📌 Ver](#a-condicional-simple-if) |
-| 1.1b | Condicional Doble (`if – else`) | [📌 Ver](#b-condicional-doble-if--else) |
-| 1.1c | Condicional Múltiple (`switch`) | [📌 Ver](#c-condicional-múltiple-if--else-if--else--switch) |
 | 2 | Estructuras Repetitivas | [🔁 Ver](#2-estructuras-repetitivas) |
-| 2.1 | Tipos de Estructuras Repetitivas | [📌 Ver](#21-tipos-de-estructuras-repetitivas) |
-| 2.1a | Ciclo `MIENTRAS` (`while`) | [📌 Ver](#a-ciclo-mientras-while--repetición-con-condición-al-inicio) |
-| 2.1b | Ciclo `HACER – MIENTRAS` (`do – while`) | [📌 Ver](#b-ciclo-hacer--mientras-do--while--repetición-con-condición-al-final) |
-| 2.1c | Ciclo `PARA` (`for`) | [📌 Ver](#c-ciclo-para-for--repetición-con-contador) |
 | 3 | Ejercicio Integrador | [💻 Ver](#3-ejercicio-integrador) |
-| 3.1 | Planteamiento del Problema | [📋 Ver](#31-planteamiento-del-problema) |
-| 3.2 | Análisis del Problema | [🔍 Ver](#32-análisis-del-problema) |
-| 3.3 | Diseño del Algoritmo (Diagrama de Flujo) | [📊 Ver](#33-diseño-del-algoritmo--diagrama-de-flujo) |
-| 3.4 | Pseudocódigo | [📝 Ver](#34-pseudocódigo) |
-| 3.5 | Codificación (Código fuente en C) | [⚙️ Ver](#35-codificación--código-fuente-en-c) |
-| 3.6 | Validación: Prueba de Escritorio | [✅ Ver](#36-validación--prueba-de-escritorio) |
 | 4 | Dificultades y Reflexión Crítica | [💡 Ver](#4-dificultades-y-reflexión-crítica) |
-| 4.1 | Principales Dificultades Encontradas | [⚠️ Ver](#41-principales-dificultades-encontradas) |
-| 4.2 | Reflexión Crítica | [💡 Ver](#42-reflexión-crítica) |
+
 
 ---
 
