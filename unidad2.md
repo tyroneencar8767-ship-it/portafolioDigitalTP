@@ -1,4 +1,5 @@
 [← Volver al Portafolio](index.md)
+---
 
 # <div align="center"> Teoría de la Programación
 
@@ -7,7 +8,7 @@
 
 ---
 
-## Índice de Contenidos
+## Índice de Contenidos de la Unidad
 
 | # | Sección | Enlace |
 | :---: | :--- | :---: |
@@ -322,5 +323,9 @@ La elaboración del diagrama de flujo antes de escribir el código demostró ser
 En conclusión, dominar estas estructuras en un lenguaje como C forja una comprensión profunda de cómo funciona realmente la memoria y la ejecución del programa, sentando las bases para abordar desafíos más complejos en el futuro profesional dentro de la Ingeniería en Computación.
 
 ---
+[↑ Ir al Índice de contenidos](#Índice-de-Contenidos-de-la-Unidad)
+
+---
 
 [← Volver al Portafolio](index.md)
+---
