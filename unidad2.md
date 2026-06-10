@@ -228,7 +228,7 @@ int main() {
     int numero, pares = 0, impares = 0, mayor;
     int i;
 
-    /* Leer el primer número para inicializar mayor */
+    // Leer el primer número para inicializar mayor //
     printf("Ingrese el numero 1: ");
     scanf("%d", &numero);
 
