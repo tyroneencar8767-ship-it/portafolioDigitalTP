@@ -11,10 +11,10 @@
 
 | # | Sección | Enlace |
 | :---: | :--- | :---: |
-| 1 | Estructuras Condicionales | [📖 Ver](#1-estructuras-condicionales) |
-| 2 | Estructuras Repetitivas | [🔁 Ver](#2-estructuras-repetitivas) |
-| 3 | Ejercicio Integrador | [💻 Ver](#3-ejercicio-integrador) |
-| 4 | Dificultades y Reflexión Crítica | [💡 Ver](#4-dificultades-y-reflexión-crítica) |
+| 1 | Estructuras Condicionales | [Ver](#1-estructuras-condicionales) |
+| 2 | Estructuras Repetitivas | [Ver](#2-estructuras-repetitivas) |
+| 3 | Ejercicio Integrador | [Ver](#3-ejercicio-integrador) |
+| 4 | Dificultades y Reflexión Crítica | [Ver](#4-dificultades-y-reflexión-crítica) |
 
 
 ---
