@@ -1,14 +1,23 @@
 [← Volver al Portafolio](index.md)
+
 ---
 
-# <div align="center"> Teoría de la Programación
+<div align="center">
 
+# 🎓 Teoría de la Programación
 
 # Unidad 2
-## <div align="center">Estructuras algorítmicas de control
+## Estructuras algorítmicas de control
 
+![Condicionales](https://img.shields.io/badge/Condicionales-if%20%7C%20else%20%7C%20switch-6c63ff?style=for-the-badge&logo=c&logoColor=white)
+![Repetitivas](https://img.shields.io/badge/Repetitivas-for%20%7C%20while%20%7C%20do--while-1d9e75?style=for-the-badge&logo=c&logoColor=white)
+![Lenguaje](https://img.shields.io/badge/Lenguaje-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## Índice de Contenidos de la Unidad
+</div>
+
+---
+
+## 📋 Índice de Contenidos de la Unidad
 
 | # | Sección | Enlace |
 | :---: | :--- | :---: |
@@ -16,7 +25,6 @@
 | 2 | Estructuras Repetitivas | [Ver](#2-estructuras-repetitivas) |
 | 3 | Ejercicio Integrador | [Ver](#3-ejercicio-integrador) |
 | 4 | Dificultades y Reflexión Crítica | [Ver](#4-dificultades-y-reflexión-crítica) |
-
 
 ---
 
@@ -26,8 +34,11 @@ Las estructuras condicionales permiten que un programa tome decisiones y ejecute
 
 ### 1.1 Tipos de estructuras condicionales
 
+---
+
 #### a) Condicional Simple (`if`)
-Ejecuta un bloque de instrucciones **solo si** la condición es verdadera.
+
+![tipo](https://img.shields.io/badge/Tipo-Simple-6c63ff?style=flat-square) &nbsp; Ejecuta un bloque de instrucciones **solo si** la condición es verdadera.
 
 **Diagrama de flujo:**
 
@@ -46,7 +57,8 @@ FIN
 ---
 
 #### b) Condicional Doble (`if – else`)
-Ejecuta un bloque si la condición es verdadera, y **otro bloque diferente** si es falsa.
+
+![tipo](https://img.shields.io/badge/Tipo-Doble-1d9e75?style=flat-square) &nbsp; Ejecuta un bloque si la condición es verdadera, y **otro bloque diferente** si es falsa.
 
 **Diagrama de flujo:**
 
@@ -67,7 +79,8 @@ FIN
 ---
 
 #### c) Condicional Múltiple (`if – else if – else` / `switch`)
-Evalúa varias condiciones en cadena y ejecuta el bloque correspondiente al primer caso verdadero.
+
+![tipo](https://img.shields.io/badge/Tipo-Múltiple-d85a30?style=flat-square) &nbsp; Evalúa varias condiciones en cadena y ejecuta el bloque correspondiente al primer caso verdadero.
 
 **Diagrama de flujo:**
 
@@ -94,8 +107,11 @@ Las estructuras repetitivas (bucles o ciclos) permiten ejecutar un conjunto de i
 
 ### 2.1 Tipos de estructuras repetitivas
 
+---
+
 #### a) Ciclo `MIENTRAS` (`while`) — Repetición con condición al inicio
-Evalúa la condición **antes** de ejecutar el cuerpo. Si la condición es falsa desde el inicio, el bloque nunca se ejecuta.
+
+![tipo](https://img.shields.io/badge/Condición-Al%20inicio-6c63ff?style=flat-square) &nbsp; Evalúa la condición **antes** de ejecutar el cuerpo. Si la condición es falsa desde el inicio, el bloque nunca se ejecuta.
 
 **Diagrama de flujo:**
 
@@ -115,7 +131,8 @@ FIN
 ---
 
 #### b) Ciclo `HACER – MIENTRAS` (`do – while`) — Repetición con condición al final
-Ejecuta el cuerpo **al menos una vez** y luego evalúa la condición.
+
+![tipo](https://img.shields.io/badge/Condición-Al%20final-1d9e75?style=flat-square) &nbsp; Ejecuta el cuerpo **al menos una vez** y luego evalúa la condición.
 
 **Diagrama de flujo:**
 
@@ -134,7 +151,8 @@ FIN
 ---
 
 #### c) Ciclo `PARA` (`for`) — Repetición con contador
-Se usa cuando se conoce de antemano el número de iteraciones.
+
+![tipo](https://img.shields.io/badge/Condición-Contador%20fijo-d85a30?style=flat-square) &nbsp; Se usa cuando se conoce de antemano el número de iteraciones.
 
 **Diagrama de flujo:**
 
@@ -323,9 +341,8 @@ La elaboración del diagrama de flujo antes de escribir el código demostró ser
 En conclusión, dominar estas estructuras en un lenguaje como C forja una comprensión profunda de cómo funciona realmente la memoria y la ejecución del programa, sentando las bases para abordar desafíos más complejos en el futuro profesional dentro de la Ingeniería en Computación.
 
 ---
-[↑ Ir al Índice de contenidos](#Índice-de-Contenidos-de-la-Unidad)
+[↑ Ir al Índice de contenidos](#índice-de-contenidos-de-la-unidad)
 
 ---
 
 [← Volver al Portafolio](index.md)
----
