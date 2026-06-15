@@ -1,7 +1,7 @@
 [← Volver al Portafolio](index.md)
 ---
 
-# <div align="center"> Teoría de la Programación
+# <div align="center"> 🎓Teoría de la Programación
 
 
 # Unidad 2
