@@ -166,7 +166,7 @@ Se usa cuando se conoce de antemano el número de iteraciones.
 
 **Diagrama de flujo:**
 
-<img width="692" height="515" alt="image" src="https://github.com/user-attachments/assets/f465baac-448c-4e83-bc08-2ad6c8608295" />
+<img width="380" height="280" alt="image" src="https://github.com/user-attachments/assets/f465baac-448c-4e83-bc08-2ad6c8608295" />
 
 
 **Pseudocódigo:**
