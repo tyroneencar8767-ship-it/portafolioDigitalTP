@@ -31,7 +31,8 @@ Ejecuta un bloque de instrucciones **solo si** la condición es verdadera.
 
 **Diagrama de flujo:**
 
-<img width="354" height="243" alt="image" src="https://github.com/user-attachments/assets/ce991c71-9b85-4b34-839e-ec861969db0f" />
+<img width="367" height="306" alt="image" src="https://github.com/user-attachments/assets/6452113f-14b7-4bb0-a586-64cfce1b0cfd" />
+
 
 **Pseudocódigo:**
 ```
@@ -50,7 +51,8 @@ Ejecuta un bloque si la condición es verdadera, y **otro bloque diferente** si 
 
 **Diagrama de flujo:**
 
-<img width="372" height="232" alt="image" src="https://github.com/user-attachments/assets/c284338a-dbbc-4caa-9fc4-0ba29b4921f1" />
+<img width="390" height="299" alt="image" src="https://github.com/user-attachments/assets/bc86d403-2f00-4647-a50e-891da1b12813" />
+
 
 **Pseudocódigo:**
 ```
@@ -68,10 +70,31 @@ FIN
 
 #### c) Condicional Múltiple (`if – else if – else` / `switch`)
 Evalúa varias condiciones en cadena y ejecuta el bloque correspondiente al primer caso verdadero.
+**`if – else if – else` - Diagrama de flujo:**
+<img width="578" height="333" alt="image" src="https://github.com/user-attachments/assets/6d410520-8761-41a0-99f8-d98e830c0499" />
 
-**Diagrama de flujo:**
+**Pseudocódigo:**
+```
+INICIO
+    LEER condición
 
-<img width="744" height="329" alt="image" src="https://github.com/user-attachments/assets/87354fd0-778e-47e8-9029-d8e282f35550" />
+    SI condición_1 ENTONCES
+        ejecutar acción A
+    SINO SI condición_2 ENTONCES
+        ejecutar acción B
+    SINO SI condición_3 ENTONCES
+        ejecutar acción C
+    SINO
+        ejecutar acción por defecto
+    FIN_SI
+FIN
+```
+
+---
+
+
+**`Switch` - Diagrama de flujo:**
+<img width="804" height="506" alt="image" src="https://github.com/user-attachments/assets/33403d68-cf31-4898-ad32-8259b6ae5826" />
 
 **Pseudocódigo:**
 ```
@@ -99,7 +122,8 @@ Evalúa la condición **antes** de ejecutar el cuerpo. Si la condición es falsa
 
 **Diagrama de flujo:**
 
-<img width="402" height="387" alt="image" src="https://github.com/user-attachments/assets/deaa89c0-c0c0-4f37-9864-1063f57cea51" />
+<img width="414" height="311" alt="image" src="https://github.com/user-attachments/assets/82dce8a4-6547-4f86-b969-f8d980ccf55c" />
+
 
 **Pseudocódigo:**
 ```
@@ -119,7 +143,7 @@ Ejecuta el cuerpo **al menos una vez** y luego evalúa la condición.
 
 **Diagrama de flujo:**
 
-<img width="343" height="325" alt="image" src="https://github.com/user-attachments/assets/2a3afa94-b959-4c2c-8eb3-659798c50bfa" />
+<img width="336" height="359" alt="image" src="https://github.com/user-attachments/assets/43ac696f-d205-46a7-b5e4-52077d6b755e" />
 
 **Pseudocódigo:**
 ```
@@ -138,7 +162,8 @@ Se usa cuando se conoce de antemano el número de iteraciones.
 
 **Diagrama de flujo:**
 
-<img width="336" height="247" alt="image" src="https://github.com/user-attachments/assets/b05d5e9e-92c5-4b46-b733-67ac8decb58a" />
+<img width="692" height="515" alt="image" src="https://github.com/user-attachments/assets/f465baac-448c-4e83-bc08-2ad6c8608295" />
+
 
 **Pseudocódigo:**
 ```
