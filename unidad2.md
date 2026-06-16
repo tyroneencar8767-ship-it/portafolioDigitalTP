@@ -70,8 +70,12 @@ FIN
 
 #### c) Condicional Múltiple (`if – else if – else` / `switch`)
 Evalúa varias condiciones en cadena y ejecuta el bloque correspondiente al primer caso verdadero.
+
+
 **`if – else if – else` - Diagrama de flujo:**
+
 <img width="578" height="333" alt="image" src="https://github.com/user-attachments/assets/6d410520-8761-41a0-99f8-d98e830c0499" />
+
 
 **Pseudocódigo:**
 ```
