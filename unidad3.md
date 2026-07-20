@@ -4,12 +4,8 @@
 
 # Unidad 3: Programación Modular y Estructuras de Datos Estáticas
 
-**Curso:** Teoría de la Programación
-**Enfoque:** Fundamentos de modularidad y arreglos en Lenguaje C
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Status](https://img.shields.io/badge/Estado-Completado-brightgreen)
-![Nivel](https://img.shields.io/badge/Nivel-Fundamentos-blue)
+
 
 En esta unidad documento mi comprensión de dos pilares del desarrollo de software en C: **modularidad** (funciones y paso de parámetros) y **estructuras de datos estáticas** (arreglos multidimensionales), junto con una reflexión sobre las dificultades reales que enfrenté al aprenderlos.
 
