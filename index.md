@@ -64,11 +64,15 @@
 <summary><b>📚 Referencias Bibliográficas (Formato IEEE)</b></summary>
 <br>
 
+
 * **[1]** B. W. Kernighan y D. M. Ritchie, *El lenguaje de programación C*, México: Prentice Hall, 2021. 🌐 [Disponible aquí](https://lc.fie.umich.mx/~moises/apuntes/Programaci%C3%B3n%20de%20Computadoras/libro_tecto.pdf)
 * **[2]** P. Deitel y H. Deitel, *C: Cómo programar*, 8.ª ed. México: Pearson Educación, 2022. 🌐 [Disponible aquí](https://elhacker.info/manuales/Lenguajes%20de%20Programacion/C++/Como%20programar%20en%20C%20-%20C++%20(Deitel%20-%20Deitel).pdf)
-* **[3]** PseInt Project, "PseInt - Herramienta educativa para pseudocódigo," 2023. 🌐 [Disponible aquí](https://pseint.sourceforge.net/).
+* **[3]** PseInt Project, "PseInt - Herramienta educativa para pseudocódigo," 2023. 🌐 [Disponible aquí](https://pseint.sourceforge.net/)
+* **[4]** C. Cabo, "Student Progress in Learning Computer Programming: Insights from Association Analysis," IEEE Frontiers in Education Conference (FIE), Covington, KY, USA, 2019, pp. 1-8. 🌐 [Disponible aquí](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.174123447.78402536)
+* **[5]** “Estructuras Condicionales y Repetitivas | PDF | Flujo de control | Programación de computadoras”, Scribd. Consultado: el 9 de junio de 2026. 🌐 [Disponible aquí](https://es.scribd.com/document/600950460/ESTRUCTURAS-DE-TRANSFERENCIA-CONDICIONALES-Y-REPETITIVAS)
+* **[6]** C. Ortega, “Validación de datos: Qué es, importancia, tipos y ventajas”, QuestionPro. Consultado: el 9 de junio de 2026. 🌐 [Disponible aquí](https://www.questionpro.com/blog/es/validacion-de-datos/)
 
-> ⏳ *Esta sección se encuentra actualmente en desarrollo.*
+
 </details>
 
 <details>
