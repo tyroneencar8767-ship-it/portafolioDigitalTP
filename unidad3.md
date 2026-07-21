@@ -11,12 +11,15 @@ En esta unidad documento mi comprensión de dos pilares del desarrollo de softwa
 
 ---
 
-## 📌 Resumen de la unidad
+## Índice de Contenidos de la Unidad
 
-| Tema | Conceptos clave |
-| :--- | :--- |
-| Modularidad | Funciones, paso por valor, paso por referencia (punteros) |
-| Arreglos | Vectores (1D), matrices (2D), cubos (3D) |
+| # | Sección | Enlace |
+| :---: | :--- | :---: |
+| 1 | Estructuras Condicionales | [Ver](##🧩1-Modularidad) |
+| 2 | Estructuras Repetitivas | [Ver](#2-estructuras-repetitivas) |
+| 3 | Ejercicio Integrador | [Ver](#3-ejercicio-integrador) |
+| 4 | Dificultades y Reflexión Crítica | [Ver](#4-dificultades-y-reflexión-crítica) |
+
 
 ---
 
