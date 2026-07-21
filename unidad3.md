@@ -7,8 +7,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 
-En esta unidad documento mi comprensión de dos pilares del desarrollo de software en C: **modularidad** (funciones y paso de parámetros) y **estructuras de datos estáticas** (arreglos multidimensionales), junto con una reflexión sobre las dificultades reales que enfrenté al aprenderlos.
-
 ---
 
 ## 📌 Resumen de la unidad
@@ -82,6 +80,14 @@ int main() {
 ## 🗂️ 2. Arreglos (Arrays)
 
 Un arreglo es una estructura estática que almacena una colección secuencial de elementos del mismo tipo en bloques de memoria contiguos.
+
+### Tipos de arreglos según su dimensión
+
+| Tipo | Dimensión | ¿Qué es? | Ejemplo de uso |
+| :--- | :--- | :--- | :--- |
+| **Vector** | Unidimensional (1D) | Una lista simple de elementos ubicados en una sola fila de memoria, accesibles con un único índice `[i]`. | Guardar las edades de un grupo de estudiantes. |
+| **Matriz** | Bidimensional (2D) | Una tabla de filas y columnas; cada elemento se accede con dos índices `[fila][columna]`. Es como un arreglo de arreglos. | Representar una hoja de cálculo o un tablero. |
+| **Cubo** | Tridimensional (3D) | Una colección de matrices apiladas en "capas"; cada elemento se accede con tres índices `[capa][fila][columna]`. Es un arreglo de matrices. | Modelar datos por capas, como notas de varios estudiantes en distintos periodos. |
 
 ### 2.1 Arreglo unidimensional (vector)
 
@@ -157,9 +163,9 @@ int main() {
 - **Manejo de memoria con punteros:** aprender el paso por referencia me obligó a diferenciar entre modificar una copia temporal y modificar el dato real en memoria usando el operador `&`.
 - **Gestión de índices en arreglos:** en los arreglos tridimensionales, el reto fue la complejidad cognitiva de manejar múltiples bucles `for` anidados. Nombrar bien las variables ("capa", "fila", "columna") fue clave para no perderme en la propia lógica.
 
-### Aprendizaje
+### Aprendizaje de la Unidad 
 
-La modularidad no es solo una regla de sintaxis: es una forma de pensar. Aislar el código en funciones fue mi mayor dificultad inicial, pero ahora entiendo que es la única manera de no abrumarse frente a un problema complejo. Dominar arreglos y punteros en C me dio una base sólida sobre cómo se organiza la memoria en programas reales. Ambos conceptos marcan el paso de escribir código que "funciona por casualidad" a diseñar soluciones con una estructura intencional.
+* La modularidad no es solo una regla de sintaxis: es una forma de pensar. Aislar el código en funciones fue mi mayor dificultad inicial, pero ahora entiendo que es la única manera de no abrumarse frente a un problema complejo. Dominar arreglos y punteros en C me dio una base sólida sobre cómo se organiza la memoria en programas reales. Ambos conceptos marcan el paso de escribir código que "funciona por casualidad" a diseñar soluciones con una estructura intencional.
 
 ---
 
