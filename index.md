@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td align="center">
-        ⚡ <strong>TEMA DE LA UNIDAD:</strong> <em>Fundamentos de Algoritmos y programas</em>
+        ⚡ <strong></em>
       </td>
     </tr>
   </table>
@@ -79,7 +79,7 @@
 <summary><b>🤖 Declaración de Uso de IA Generativa</b></summary>
 <br>
 
-En el desarrollo de este portafolio digital se emplearon herramientas de **Inteligencia Artificial Generativa (Gemini/Claude)** como tutores para reforzar conceptos teóricos de la Unidad 1, optimizar y estructurar técnicamente el formato Markdown para su correcta visualización en GitHub. 
+En el desarrollo de este portafolio digital se emplearon herramientas de **Inteligencia Artificial Generativa (Gemini/Claude)** como tutores para reforzar conceptos teóricos del respectivo ciclo, optimizar y estructurar técnicamente el formato Markdown para su correcta visualización en GitHub. 
 
 El uso de estas tecnologías se limitó estrictamente al apoyo en la maquetación y depuración técnica, garantizando que el planteamiento del problema, el análisis lógico, el diseño y creación del algoritmo y la validación manual mediante pruebas de escritorio fueran realizados, comprendidos y validados íntegramente por el estudiante, asegurando así la autenticidad del proceso de aprendizaje y la autoría de los resultados presentados.
 </details>
