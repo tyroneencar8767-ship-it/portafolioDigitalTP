@@ -55,6 +55,9 @@ int main() {
     return 0;
 }
 ```
+### Ejemplo de ejecución en terminal
+<img width="883" height="65" alt="image" src="https://github.com/user-attachments/assets/b6b9eb34-ff9b-4274-9c69-2cd5dd245d3c" />
+
 
 #### Ejemplo 2 — Paso por referencia
 
@@ -74,6 +77,9 @@ int main() {
     return 0;
 }
 ```
+### Ejemplo de ejecución en terminal
+<img width="893" height="65" alt="image" src="https://github.com/user-attachments/assets/a05c437a-8754-4fbf-b36c-40a9ff217368" />
+
 
 ---
 
@@ -104,6 +110,9 @@ int main() {
     return 0;
 }
 ```
+### Ejemplo de ejecución en terminal
+<img width="887" height="131" alt="image" src="https://github.com/user-attachments/assets/28548b70-1f50-41fc-b694-c38015139899" />
+
 
 ### 2.2 Arreglo bidimensional (matriz)
 
@@ -126,6 +135,8 @@ int main() {
     return 0;
 }
 ```
+### Ejemplo de ejecución en terminal
+<img width="794" height="63" alt="image" src="https://github.com/user-attachments/assets/4b5e19d5-c5c1-498a-b567-6ec7d09eebeb" />
 
 ### 2.3 Arreglo tridimensional (cubo / capas)
 
@@ -152,6 +163,8 @@ int main() {
     return 0;
 }
 ```
+### Ejemplo de ejecución en terminal
+<img width="883" height="180" alt="image" src="https://github.com/user-attachments/assets/91d76bac-3557-44e1-ad72-6f64bd74154f" />
 
 ---
 
